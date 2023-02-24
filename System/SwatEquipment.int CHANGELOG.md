@@ -1,0 +1,1 @@
+-Changed the [M16A2MG] "burst" description to "3-rd. Burst".
