@@ -1,3 +1,5 @@
+(NOTE: PLEASE USE THE MIRRORS/ALTERNATIVE DOWNLOADS FOR THE CONTENT FOLDER! GITHUB DOES NOT HAVE THE SPACE TO PUT THE ENTIRE CONTENT FOLDER INSIDE OF IT!)
+
 SPECIAL THANKS TO RYKER AND THE SUGGESTER FOR YOUR CONTRIBUTIONS!
 
 Hi there! It is me, Stefano Moretti, a beautiful 36 year old Italian transgender man who lives in Verona, Italy, here to present my own mod, First Responders Extreme!
