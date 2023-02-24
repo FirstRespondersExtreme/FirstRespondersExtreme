@@ -1,13 +1,3 @@
-SPECIAL THANKS TO RYKER AND THE SUGGESTER FOR YOUR CONTRIBUTIONS!
-
-Hi there! It is me, Stefano Moretti, a beautiful 36 year old Italian transgender man who lives in Verona, Italy, here to present my own mod, First Responders Extreme!
-
-You see, my evil alter ego, Beppegoodoldrebel, claims his mod, First Responders, is TRASH.
-
-Only issue is, his mod is actually pretty good.
-
-Good news, because I am the ULTIMATE TRASH DEVELOPER, I am the only one that is legally qualified to handle an ACTUAL TRASH MOD.
-
 ***HOW TO INSTALL***
 
 -To use this, take this .zip file and paste it inside of the "SWAT 4" Directory/Folder, aka the same way you would install SEF (SWAT: Elite Force).
@@ -17,8 +7,6 @@ Good news, because I am the ULTIMATE TRASH DEVELOPER, I am the only one that is 
 -What is shown below should be the ideal location to place and extract the .zip file.
 --Your drive (C:,D:,E:, etc.)/SWAT 4
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-(DISCLAIMER: The rest of this has been copied and pasted from "_CHANGELOG_FR_EXTREME.md")
-
 ***MIRRORS/ALTERNATE DOWNLOADS***
 
 MIRROR#1: https://www.mediafire.com/file/cgd9lbwbojtd5ac/FirstRespondersExtreme.zip/file
@@ -30,7 +18,6 @@ MIRROR#3: https://drive.proton.me/urls/YNHR5JB3SR#52BvIt2ehiZ0
 MIRROR#4: https://onedrive.live.com/?authkey=%21AIJKSD3gOdxy3NI&id=4514DA158D21CD04%21108&cid=4514DA158D21CD04&parId=root&parQt=sharedby&o=OneUp
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ***NOTES***
-
 This is the changelog for all differences in this mod. I have also made individual changelog files in the System Folder, to help pinpoint the changes clearly.
 -Yes, I am aware I could have just put this in GitHub (in the commit history), but considering having a physical copy of said changes is better in my opinion, I will only post the changelog, not any commit history in GitHub.
 

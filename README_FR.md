@@ -1,6 +1,4 @@
-==============
-Swat Elite Force: First Responders 
-==============
+# SWAT ELITE FORCE: FIRST RESPONDERS #
 
 SEF First Responders is coming along with the idea of a realistic and cinematic gameplay modification of Swat Elite Force. 
 SEF 7.0 by Eezstreet is the base mod in which my mod starts , the only possible way to play Swat 4 nowadays. 
@@ -10,10 +8,48 @@ New 3d models for weapons , equipment and environment combined with realistic so
 Make sure to sure to join "SEF: First Responders" server on Discord for feedbacks, bug reports and coop game making!
 https://discord.gg/Vu4r7sv7uF
 
-==============
-FEATURE LIST: 
-==============
 
+# FEATURE LIST: #
+
+#### V0.67 Stable ####
+WEAPONS: 
+			 - Remingtom M870 Tactical
+GEAR:
+             - PASGT + Goggles and chinstraps to many helmets ( thx to TargetAquired )
+			 - reworked Kevlar Armor(No Sleeves) now support full skins and nametags ( thx to TargetAquired )
+AI: 
+			 - Minimum Time to Shoot reduced for Low/Medium Skill Suspects
+			 - reworked Hearing Sensor for Suspects/Officers
+			 - reworked Flee/Flush/Regroup/Escape actions to avoid bad behaviors on "attack while moving".
+			 - reworked InvestigateAction to not make suspect standing without tasks.
+SOUNDS:
+			 - various replaced sounds effects  ( thx to Crusoe )
+FIXED:      
+             - fixed some wierd animation behaviors when "Restrained On Floor".
+
+#### V0.67 Beta 3 ####
+ADDED: 
+	WEAPONS: 
+	         - M16A2 with Surefire M500 weaponlight
+    GAMEPLAY:
+			 - Restrained On Floor: 
+			            - after reporting you can put anyone to floor by simply interacting again with the restrained.
+             - First Responders Campaign mode : 
+			            - no unlocks 
+						- only FR weapons
+						- no optiwand   :P
+			 - Damage values reworked for penetrating ammos. 
+                        - more base damage so FMJ/AP are more efficient against armored targets
+			 - Shields can now "low ready"
+	GUI:
+	         - Added selectable Custom Skins for Single Player mode.
+	AI:	
+			 - fixed istances of AI shooting from impossible rotations
+			 - minimum time to shoot is now respected
+    FIXED: 
+             - Weapon image not loading on Loadout GUI on some campaign conditions
+			 - improved animation manager  
+             
 
 #### V0.67 Beta 2 ####
 ADDED: 
@@ -90,26 +126,50 @@ FIXED:
 			- Reduced Suspects and Officers punch chance to avoid fist fight "exploitation" 
 			- Fixed bad istances where suspects are still holding a gun after been arrested
 
-
 #### V0.66 ####
 
 ADDED:
-- Lean/Walk System , ability to lean and walk.... finally an hystoric moment for Swat4 modding!  
-    New and old lean system are working together for a complete... lean experience! 
-    	Q and E - new lean/walk system 
-	   CTRL + Q and CTRL + E - old lean 
-- Partial Open Door System , holding CTRL and Mouse Wheel Up/Down wil swing the door partially, making possible to shoot or throw a grenade.
-- NEW TAC-AID: Maglite Torch! Using the light makes evidence glowing to allow player a faster search of them. Even AI can use this feature when got ordered to secure evidence!
-- Dynamic shell textures on Breaching SG an Benelli M4 depending on shell type.
-- Fleeing suspects are considered threat if running with a gun within 15 mts from a player 
 
-- new body armors (from vanilla) , Level II armor and Kevlar (no sleeves). 
-- new headgear ( boonie hat , ballistic glasses )
-
+	GAMEPLAY:
+			- Lean/Walk System , ability to lean and walk.... finally an hystoric moment for Swat4 modding!  
+				New and old lean system are working together for a complete... lean experience! 
+				
+				NEW LEAN - Lean Left ( Default Q ) and  Lean Right ( Default E ) - new lean/walk system 
+				OLD LEAN - Hold Command (Default CTRL ) + Lean Left ( Default Q ) and Hold Command (Default CTRL ) + Lean Right ( Default E ) 
+				
+			- Partial Open Door System will swing the door partially, making possible to shoot or throw a grenade.
+			
+			          You can bind new keys or holding Hold Command ( default CTRL ) and Low Ready Up/Down ( Default Mouse Wheel Up/Down )           
+					  
+			- NEW TAC-AID: Maglite Torch! Using the light makes evidence glowing to allow player a faster search of them. Even AI can use this feature when got ordered to secure evidence!
+						
+						J to equip torch 
+						Toggle Flashlight to highlight evidence
+						
+			- Disable Penalty Messages option for SP (in game settings options) and MP (forced to all players in Advanced server settings )
+			- Fleeing suspects are considered threat if running with a gun within 15 mts from a player 
+			- Restored Weapon Zoom (disabled by default). 
+	AI:
+			- Suspects and officers can punch their enemies at very close range! 
+			- Suspects AI morale overhaul , now 15% more intiale morale.They can also "fake" dropping all weapons and decide to attack you with a chance based on skill level.
+	
+	GRAPHICS:
+			- NEW OFFICERS TEXTURES (Thanks to AceVentura) !
+			- new body armors (from vanilla) , Level II armor and Kevlar (no sleeves). 
+			- new headgear ( boonie hat , ballistic glasses )
+			- New Minimal HUD (optional) 
+			- Dynamic shell textures on Breaching SG an Benelli M4 depending on shell type.
+			- New "Shake Camera" added when get shot or near a C2 blast. 
+			- Camera shake when player has been hit and close to a C2 explosion.
+			- New "reduced" Ninebang effects
+	SOUNDS:
+			- NEW WEAPONS SOUNDS OVERHAUL! ( Thanks to Multi ! )
+	 
 FIXED:
-- Stuttering and weight bugs in MP : removed old SEF system in change of a new simplified system with better net performances.
-- Suspects can remove wedges only within 35 mts from players.
-- Trapped doors are signaled by AI only there are traps in the map.
+	- Stuttering and weight bugs in MP : removed old SEF system in change of a new simplified system with better net performances.
+	- Suspects can remove wedges only within 35 mts from players.
+	- Trapped doors are signaled by AI only there are traps in the map.
+	- MP heavy mesh texture bug
 
 #### V0.65 ####
 
@@ -126,14 +186,13 @@ ADDED
 - Check Lock can possibly return the presence of a trap... but can be a false statement! 
   Also AI officers now report possible traps when checking the lock but... they can be wrong! 
 - SP/COOP Career overhaul: unlock system redone for a better career experience.
-
+  
 REMOVED
 - Optiwand now cant mirror under the door
 
 FIXED
 - MP5A4 Holo ADS point fixed
 - Adjusted some weights here and there
-
 
 #### V0.61 ####
 
@@ -209,22 +268,19 @@ other slot free for other tac aids equipment.
 - GUI update for all new weapons and equipment
 
 
-==============
-GNU LICENSE
-==============
+# GNU LICENSE #
+
 Modified source code from SEF 7 has been provided within the downloaded pack in the file Source.rar .
 All the other files are free to be seen with SwatED and text editors.
 
-==============
-KNOWN BUGS:
-==============
+# KNOWN BUGS: # 
 
 Known bugs:
-- AI can be stuck by dealing with partial doors
+- toolkit/pistol bug   ( possible fix added in v0.6 ) - made toolkit unequip manual after use
+- shared flashbang stay in hands after unequip - SEF bug 
 
-=======
-THANKS
-=======
+
+# THANKS # 
 
 Eezstreet and all the gang that had contributed the SEF mod , the best of the best! 
 Vetinari and nedd for the HUD reticle mod which has been "big bang moment" primary idea for starting this mod.
