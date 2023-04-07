@@ -21,6 +21,8 @@ ________________________________________________________________________________
 
 ***MIRRORS/ALTERNATE DOWNLOADS***
 
+GITHUB LINK: https://github.com/FirstRespondersExtreme/FirstRespondersExtreme
+
 MIRROR#1: https://www.mediafire.com/file/cgd9lbwbojtd5ac/FirstRespondersExtreme.zip/file
 
 MIRROR#2: https://mega.nz/file/YQEGmbyA#bBiXcMZfe6HIrXk6PgtzIYULkG-r8wcXzMdgQEAw5GQ
