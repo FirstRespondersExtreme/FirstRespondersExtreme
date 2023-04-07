@@ -28,6 +28,10 @@ MIRROR#2: https://mega.nz/file/YQEGmbyA#bBiXcMZfe6HIrXk6PgtzIYULkG-r8wcXzMdgQEAw
 MIRROR#3: https://drive.proton.me/urls/YNHR5JB3SR#52BvIt2ehiZ0
 
 MIRROR#4: https://onedrive.live.com/?authkey=%21AIJKSD3gOdxy3NI&id=4514DA158D21CD04%21108&cid=4514DA158D21CD04&parId=root&parQt=sharedby&o=OneUp
+
+MIRROR#5: https://anonymfile.com/0dabd/firstrespondersextreme.zip
+
+MIRROR#6: https://www.tumblr.com/firstrespondersextreme
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ***NOTES***
 
