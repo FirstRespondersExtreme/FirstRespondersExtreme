@@ -42,6 +42,8 @@ MIRROR#5: https://anonymfile.com/0dabd/firstrespondersextreme.zip
 MIRROR#6: https://www.tumblr.com/firstrespondersextreme
 
 MIRROR#7: https://www.deviantart.com/firstrespondersex
+
+MIRROR#8: https://archive.org/details/first-responders-extreme
 _______________________________________________________________________________________________________________________________________________________________________
 
 ***NOTES***
