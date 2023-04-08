@@ -24,6 +24,8 @@ MIRROR#5: https://anonymfile.com/0dabd/firstrespondersextreme.zip
 MIRROR#6: https://www.tumblr.com/firstrespondersextreme
 
 MIRROR#7: https://www.deviantart.com/firstrespondersex
+
+MIRROR#8: https://archive.org/details/first-responders-extreme
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ***NOTES***
 This is the changelog for all differences in this mod. I have also made individual changelog files in the System Folder, to help pinpoint the changes clearly.
