@@ -44,6 +44,10 @@ MIRROR#6: https://www.tumblr.com/firstrespondersextreme
 MIRROR#7: https://www.deviantart.com/firstrespondersex
 
 MIRROR#8: https://archive.org/details/first-responders-extreme
+
+MIRROR#9: https://archive.ph/bG4hM
+
+MIRROR#10: https://archive.ph/b6vGF
 _______________________________________________________________________________________________________________________________________________________________________
 
 ***NOTES***
